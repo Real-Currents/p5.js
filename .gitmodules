@@ -1,0 +1,3 @@
+[submodule "p5.js.wiki"]
+	path = wiki
+	url = git@github.com:Real-Currents/p5.js.wiki.git
